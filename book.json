@@ -3,5 +3,10 @@
         "mathjax",
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "happynear blog",
+            "useIdentifier": false
+        }
+    }
 }
