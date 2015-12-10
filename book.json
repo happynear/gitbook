@@ -8,6 +8,9 @@
         "disqus": {
             "shortName": "happynear blog",
             "useIdentifier": false
+        },
+        "github": {
+            "url": "https://github.com/happynear"
         }
     }
 }
