@@ -7,7 +7,7 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "happynear blog",
-            "useIdentifier": false
+            "useIdentifier": true
         },
         "github": {
             "url": "https://github.com/happynear"
