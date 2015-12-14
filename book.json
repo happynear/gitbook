@@ -2,7 +2,8 @@
     "plugins": [
         "mathjax",
         "disqus",
-        "github"
+        "github",
+        "comment"
     ],
     "pluginsConfig": {
         "disqus": {
